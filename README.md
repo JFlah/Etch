@@ -1,6 +1,7 @@
 # Etch
 Android group drawing app.
-_Built with PubNub_
+
+Built using [PubNub][pn]
 
 ## Current Features
 - 1:1 realtime drawing with anyone.
@@ -18,3 +19,5 @@ _Built with PubNub_
 - Choose pen color
 - Chat rooms and Private rooms
 - Push notification to invite friend to private chatroom
+
+[pn]: http://www.pubnub.com
